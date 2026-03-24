@@ -114,10 +114,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
       const mainTitle = menuItem.itemNmDp || '메뉴명 없음';
       
-      // 이미지 URL 보정
       let imageUrl = null;
       if (menuItem.fileUpload && menuItem.fileUpload.length > 0) {
-        imageUrl = menuItem.fileUpload[0].url.replace('http://planeatchoice.net', 'https://m.planeatchoice.net');
+        const originalUrl = menuItem.fileUpload[0].url || menuItem.fileUpload[0].thumbnail || '';
+        imageUrl = originalUrl.replace(/http(s)?:\/\/(?:www\.)?planeatchoice\.net/i, 'https://m.planeatchoice.net');
       }
       
       const kcal = menuItem.totCalorie || menuItem.calorie || 0;
