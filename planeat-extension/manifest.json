@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "구미 2C 3식당 메뉴",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "PlanEAT 구미 2C 3식당의 오늘/내일 메뉴를 확인합니다.",
   "icons": {
     "16": "icon.png",
