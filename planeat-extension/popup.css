@@ -2,18 +2,18 @@
   --bg-color: #f5f7fa;
   --text-color: #333;
   --card-bg: white;
-  --header-bg: #00A9E0; /* 헤더 배경을 삼성 하늘색으로 */
+  --header-bg: white;
   --border-color: #edf2f7;
   --text-muted: #718096;
-  --text-dark: white; /* 어두운 글씨 대신 헤더안에서 흰색 */
+  --text-dark: #1a202c;
   --text-primary: #2d3748;
-  --primary-color: #00A9E0; /* 삼성 하늘색 */
+  --primary-color: #00A9E0;
   --primary-hover: #008CBA;
   --badge-bg: #e6f7ff;
   --badge-text: #00A9E0;
   --img-bg: #edf2f7;
-  --nav-btn-hover: rgba(255,255,255,0.2);
-  --controls-bg: rgba(255,255,255,0.15); /* 헤더 컨트롤 배경 투명하게 */
+  --nav-btn-hover: #edf2f7;
+  --controls-bg: #f7fafc;
   --error-bg: #fff5f5;
   --error-border: #feb2b2;
   --error-text: #e53e3e;
@@ -27,18 +27,18 @@
     --bg-color: #1a202c;
     --text-color: #e2e8f0;
     --card-bg: #2d3748;
-    --header-bg: #008CBA;
+    --header-bg: #2d3748;
     --border-color: #4a5568;
     --text-muted: #a0aec0;
-    --text-dark: white;
+    --text-dark: #f7fafc;
     --text-primary: #e2e8f0;
     --primary-color: #00A9E0;
     --primary-hover: #008CBA;
     --badge-bg: #2a4365;
     --badge-text: #63b3ed;
     --img-bg: #1a202c;
-    --nav-btn-hover: rgba(255,255,255,0.2);
-    --controls-bg: rgba(255,255,255,0.1);
+    --nav-btn-hover: #4a5568;
+    --controls-bg: #1a202c;
     --error-bg: #742a2a;
     --error-border: #9b2c2c;
     --error-text: #fc8181;
