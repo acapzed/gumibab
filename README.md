@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="src/unnamed128.png" width="96" alt="아이콘">
+<img src="src/unnamed128.png" width="256" alt="아이콘">
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/bjlhbdemdpjgmkpndphcfhnnhdknaple?label=Chrome%20Web%20Store)](https://chromewebstore.google.com/detail/bjlhbdemdpjgmkpndphcfhnnhdknaple)
 [![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/bjlhbdemdpjgmkpndphcfhnnhdknaple)](https://chromewebstore.google.com/detail/bjlhbdemdpjgmkpndphcfhnnhdknaple)
