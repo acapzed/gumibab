@@ -1,10 +1,14 @@
 # 구미 2C 3식당 메뉴
 
-<img src="src/icon128.png" width="96" alt="아이콘">
+<div align="center">
+
+<img src="src/unnamed128.png" width="96" alt="아이콘">
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/bjlhbdemdpjgmkpndphcfhnnhdknaple?label=Chrome%20Web%20Store)](https://chromewebstore.google.com/detail/bjlhbdemdpjgmkpndphcfhnnhdknaple)
 [![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/bjlhbdemdpjgmkpndphcfhnnhdknaple)](https://chromewebstore.google.com/detail/bjlhbdemdpjgmkpndphcfhnnhdknaple)
 [![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue)](https://developer.chrome.com/docs/extensions/mv3/intro/)
+
+</div>
 
 브라우저 아이콘 한 번 클릭으로 **PlanEAT 구미 2C 3식당**의 당일 메뉴를 바로 확인하는 Chrome 확장 프로그램입니다.
 
@@ -23,4 +27,9 @@
 
 ## 데이터 출처
 
-삼성웰스토리 PlanEAT(`m.planeatchoice.net`) API를 사용합니다.
+삼성웰스토리 PlanEAT(`m.planeatchoice.net`) API를 사용합니다. 자세한 내용은 [API 문서](API_DOCS.md)를 참고하세요.
+
+## 링크
+
+- [개인정보처리방침](PRIVACY_POLICY.md)
+- [API 문서](API_DOCS.md)
